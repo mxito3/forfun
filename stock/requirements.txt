@@ -6,7 +6,7 @@ chardet==3.0.4
 future==0.17.1
 idna==2.8
 itchat==1.2.32
-lxml==4.3.2
+lxml==4.6.5
 msgpack==0.6.1
 numpy==1.16.2
 pandas==0.24.1
