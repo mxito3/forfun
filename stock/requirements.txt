@@ -8,7 +8,7 @@ idna==2.8
 itchat==1.2.32
 lxml==4.3.2
 msgpack==0.6.1
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.1
 pkg-resources==0.0.0
 pypng==0.0.19
